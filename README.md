@@ -31,4 +31,4 @@ ROOMS:
 ![ROOM3](ROOM3.png)
 ![OUTSIDE](OUTSIDE.png)
 
-[![Ver video demo en YouTube](https://img.youtube.com/vi/g-qD4mWmMQ4/hqdefault.jpg)](https://youtu.be/QYtee3HFseY)
+[![Ver video demo en YouTube](https://img.youtube.com/vi/QYtee3HFseY/maxresdefault.jpg)](https://youtu.be/QYtee3HFseY)
