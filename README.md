@@ -26,3 +26,9 @@ Now, the real adventure begins.
 
 ROOMS:
 ![ROOM0](ROOM0.png)
+![ROOM1](ROOM0.png)
+![ROOM2](ROOM0.png)
+![ROOM3](ROOM0.png)
+![OUTSIDE](OUTSIDE.png)
+
+[![Ver video demo en YouTube](https://img.youtube.com/vi/g-qD4mWmMQ4/hqdefault.jpg)](https://youtu.be/QYtee3HFseY)
