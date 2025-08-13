@@ -25,4 +25,4 @@ Even these first steps made me feel like I was opening the door to an entirely n
 Now, the real adventure begins.
 
 ROOMS:
-![ROOM0](IIVRScapeRoom/ROOM0.png)
+![ROOM0](ROOM0.png)
